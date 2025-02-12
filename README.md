@@ -20,19 +20,6 @@
 
 
 
-"bcryptjs": "^2.4.3",
-    "body-parser": "^1.20.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "jsonwebtoken": "^9.0.2",
-    "pg": "^8.13.2",
-    "pg-hstore": "^2.3.4",
-    "sequelize": "^6.37.5",
-    "sequelize-cli": "^6.6.2",
-    "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "^5.0.1"
-
 ## Instrucciones para ejecutar el proyecto localmente
 
 1- Clona el repositorio
